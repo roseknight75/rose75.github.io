@@ -1,0 +1,31 @@
+.. _code_example:
+
+Code Example
+============
+
+This page contains various code examples.
+
+Inline code example: `print("Hello, World!")`.
+
+Code block example:
+
+.. code-block:: python
+
+    def hello_world():
+        print("Hello, World!")
+
+Another code block with a function to add two numbers:
+
+.. code-block:: python
+
+    def add(a, b):
+        return a + b
+
+Usage example:
+
+.. code-block:: python
+
+    result = add(5, 3)
+    print(result)  # Output: 8
+
+

@@ -1,0 +1,14 @@
+.. _subpage2:
+
+Subpage 2
+=========
+
+Content for Subpage 2.
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Related Pages
+
+   subpage2_subpage1
+   subpage2_subpage2
+
